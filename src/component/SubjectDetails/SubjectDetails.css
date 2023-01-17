@@ -1,0 +1,60 @@
+.position {
+  position: sticky;
+  top: 0;
+}
+.personImg {
+  width: 25%;
+  border-radius: 30%;
+}
+.about {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.about div {
+  margin-left: 5px;
+}
+.name {
+  font-size: 22px;
+  font-weight: bold;
+}
+.location {
+  color: gray;
+  font-size: 15px;
+}
+
+.study_details {
+  background-color: rgba(230, 230, 250, 0.696);
+  margin-top: 30px;
+  padding: 6px;
+  border-radius: 10px;
+}
+.study_details h6 {
+  font-size: 15px;
+}
+.break_details {
+  background-color: rgba(230, 230, 250, 0.696);
+  margin-top: 30px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.break_details div button:hover {
+  background-color: blueviolet;
+  color: white;
+  border-radius: 10px;
+}
+.details {
+  background-color: rgba(230, 230, 250, 0.696);
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .about {
+    flex-direction: column;
+  }
+  .about div {
+    margin-left: 0;
+  }
+}

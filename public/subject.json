@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "HTML and CSS",
+    "topic": "Design and Build Websites",
+    "author": "Jon Duckett",
+    "page": 150,
+    "time": 8,
+    "break": 7,
+    "img": "https://josipmisko.com/img/books/HTML-and-CSS-9781118008188.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Road to React",
+    "topic": "Your journey to master plain yet pragmatic React.js",
+    "author": "Robin Wieruch",
+    "page": 180,
+    "time": 10,
+    "break": 8,
+    "img": "https://josipmisko.com/img/books/The-Road-to-React.jpg"
+  },
+  {
+    "id": 3,
+    "name": "PHP & MySQL",
+    "topic": "Best practical book",
+    "author": "Jon Duckett",
+    "page": 210,
+    "time": 11,
+    "break": 6,
+    "img": "https://josipmisko.com/img/books/PHP-&-MySQL-9781119149217.jpg"
+  },
+  {
+    "id": 4,
+    "name": "JavaScript",
+    "topic": "The Good Parts",
+    "author": "Douglas Crockford",
+    "page": 200,
+    "time": 10,
+    "break": 4,
+    "img": "https://josipmisko.com/img/books/JavaScript-The-Good-Parts-9780596554873.png"
+  },
+  {
+    "id": 5,
+    "name": "Flask Web Development",
+    "topic": "Developing Web Applications with Python",
+    "author": "Miguel Grinberg",
+    "page": 160,
+    "time": 7,
+    "break": 3,
+    "img": "https://josipmisko.com/img/python-books/flask-web-development.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Web Development with Clojure",
+    "topic": "Build Large, Maintainable Web Applications Interactively",
+    "author": "Dmitri Sotnikov, Scot Brown",
+    "page": 190,
+    "time": 8,
+    "break": 5,
+    "img": "https://josipmisko.com/img/books/Web-Development-with-Clojure-9781680506822.jpg"
+  }
+]
